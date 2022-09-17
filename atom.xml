@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>cooderxiaoluo</title>
+  <title>coderxiaoluo</title>
   <icon>https://www.gravatar.com/avatar/97abff411921805a4a43690b806af70c</icon>
-  <subtitle>coderxiaoluo</subtitle>
+  <subtitle>小罗</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
